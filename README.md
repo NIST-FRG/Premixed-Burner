@@ -12,7 +12,7 @@ Key Measurements of interest (at given input flow rates, fuel and oxidizer) incl
 - HRR, Heat of Combustion, and global species yields (CO, CO2, Soot)
 - Flame Structure (e.g., visual height, width)
 - Radiative Fraction, Xr
-- Centerline Temperature (and major species 
+- Centerline Temperature (and major species*)
 
 ### Repo Structure
 Experimental measurements are provided in the DATA folder. Each subfolder in /Data/ corresponds to a different experiment. 
