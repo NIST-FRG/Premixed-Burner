@@ -1,5 +1,5 @@
 Time,Air Flow Rate,HF-N,HF-E,HF-S,HF-W,NG Flow Rate,HRR_ideal,HRR_cal,K_smoke,T_duct,rho_duct,V_duct,MF_duct,O2_duct,CO2_duct,CO_duct,H2O_duct,H2O_amb,RH,T_amb
-s,L/min,kW/m2,kW/m2,kW/m2,kW/m2,m3/s,kW,kW,1/m,C,kg/m3,m/s,kg/s,mol/mol,mol/mol,mol/mol,mol/mol,mol/mol,%,C
+s,L/min,kW/m2,kW/m2,kW/m2,kW/m2,L/min,kW,kW,1/m,C,kg/m3,m/s,kg/s,mol/mol,mol/mol,mol/mol,mol/mol,mol/mol,%,C
 -10,1.8,0.00,0.00,0.00,0.00,2.00,1.2,0.8,0.00037,21.7,1.19,9.24,2.02,0.209368,0.000453,0.000002,0.013278,0.020096,45.05,25.7
 0,1.8,0.13,0.12,0.05,0.04,50.70,30.0,0.4,0.00112,23.9,1.18,9.61,2.08,0.209379,0.000458,0.000002,0.013270,0.020084,45.05,25.7
 10,1.8,0.29,0.27,0.10,0.08,90.60,53.6,71.5,0.00200,32.4,1.15,9.92,2.09,0.207081,0.001934,0.000002,0.013332,0.019863,45.05,25.7
